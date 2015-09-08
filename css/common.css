@@ -1,0 +1,11 @@
+@import url("reset.css");
+@import url("normalize.css");
+@import url("bootstrap/css/bootstrap.css");
+@import url("bootstrap/css/bootstrap-theme.css");
+form{
+	/*min-width: 248px;
+	margin:0 auto;*/
+	padding-top: 40%; 
+	padding-bottom: 20px;
+}
+
